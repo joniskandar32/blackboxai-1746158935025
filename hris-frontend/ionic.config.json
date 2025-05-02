@@ -1,0 +1,7 @@
+{
+  "name": "hris-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
